@@ -1,5 +1,0 @@
-index,Li_fraction_in_TM_layer,Ni_fraction,Co_fraction,Mn_fraction,first_sintering_temperature,first_sintering_time,second_sintering_temperature,second_sintering_time,mean_primary_particle_size,predicted_mean,predicted_std,lower_95,upper_95
-2,0,0.8,0.1,0.1,469,4,750,26,0.347,0.206419092,0.068100812,0.072943954,0.339894231
-3,0,0.8,0.1,0.1,451,4,761,20,0.645,0.363822841,0.074039398,0.218708286,0.508937395
-4,0,0.8,0.1,0.1,483,3,744,6,0.286,0.123007414,0.059364787,0.00665457,0.239360258
-4,0,0.8,0.1,0.1,476,5,741,9,0.186,0.170339099,0.058783711,0.055125143,0.285553056
